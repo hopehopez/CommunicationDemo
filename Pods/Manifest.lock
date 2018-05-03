@@ -1,0 +1,15 @@
+PODS:
+  - SocketRocket (0.5.1)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - SocketRocket
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 23ae63ee61222cef332946e63a0bf17ed004d35d
+
+COCOAPODS: 1.4.0
